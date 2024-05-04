@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T09:47:25.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ykgTUOJHn8R_kxAkd0qm" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-04T09:48:24.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="D3fto9y4ddBmXwUXqXhw" version="24.3.1" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="2833" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="PBtX4HCvhkAMB2_3Ykh0-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;fillStyle=hatch;strokeColor=#d79b00;" parent="PBtX4HCvhkAMB2_3Ykh0-3" vertex="1">
           <mxGeometry width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="PBtX4HCvhkAMB2_3Ykh0-5" value="Reverse Proxy / Load Balancer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="PBtX4HCvhkAMB2_3Ykh0-3" vertex="1">
+        <mxCell id="PBtX4HCvhkAMB2_3Ykh0-5" value="&lt;b&gt;Gateway&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="PBtX4HCvhkAMB2_3Ykh0-3" vertex="1">
           <mxGeometry x="80" y="25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PBtX4HCvhkAMB2_3Ykh0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.009;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PBtX4HCvhkAMB2_3Ykh0-2" target="PBtX4HCvhkAMB2_3Ykh0-4" edge="1">
