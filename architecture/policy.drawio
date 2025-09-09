@@ -38,7 +38,7 @@
         <mxCell id="WulgHTzPr-4XbaBLYJl2-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="1" vertex="1">
           <mxGeometry x="930" y="-790" width="240" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WulgHTzPr-4XbaBLYJl2-10" value="&lt;b&gt;PDP Service&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" parent="1" vertex="1">
+        <mxCell id="WulgHTzPr-4XbaBLYJl2-10" value="&lt;b&gt;PDiP Service&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="-766" width="200" height="36" as="geometry" />
         </mxCell>
         <mxCell id="WulgHTzPr-4XbaBLYJl2-12" value="Policy Distribution Point (PDP)" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
